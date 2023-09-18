@@ -1,0 +1,193 @@
+*{
+    font-family: Rubik;  
+}
+.logo{
+    width: 68px;
+    height: 66px;
+    flex-shrink: 0;
+    margin-left: 127px;
+    margin-top: 10px;
+    margin-right: 70px;
+    background: #D9D9D9;
+}
+.hire{
+    margin-top: 100px;
+}
+.logo img{
+    margin-left: 18px;
+    margin-top: 18px;
+}
+.options{
+    margin-left: 69px;
+    color: #000;
+    font-family: Rubik;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+header{
+    display: flex;
+}
+.afisha{
+    padding-bottom: 0px;
+    text-align: center;
+    font-size: 40px;
+    color:rgba(117, 182, 210, 1);
+    width: 1228px;
+    height: 184px;
+    flex-shrink: 0;
+    border-radius: 100px;
+    background: #eaf1f1;
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+    margin-left: 330px;
+    margin-top: 150px;
+}
+#options{
+    margin-top: 25px;
+}
+.first{
+    display: flex;
+}
+.shark img{
+    float: right;
+    width: 500px;
+    margin-left: 150px;
+}
+.demoman{
+    margin-left: 450px;
+}
+ol{ 
+    font-size: 24px;
+    clear: left;
+    list-style: none;
+}
+#portfolio{
+    float: right;
+    display: flex;
+}
+#portfolio img{
+    float: left;
+    margin: 10px;
+}
+ul {
+    list-style: none;
+  }
+  
+  li {
+    display: inline-block;
+  }
+#olympic{
+    float: left;
+    color: #FFF;
+    font-family: Rubik;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    align-items: center;
+    margin-top: 58px;
+    margin-left: 61px;
+    width: 282px;
+    height: 282px;
+    flex-shrink: 0;
+    border-radius: 25px;
+    background: #EB874F;
+}
+.decoration{
+    padding-left: 500px;
+    height: 100px;
+}
+#mainadd{
+    padding-bottom: 250px;
+    height: 0px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+#mainadd img{
+    width: 1125px;
+    height: 500px;
+    flex-shrink: 0;
+}
+#olympic img{
+    width: 261px;
+    height: 184px;
+    flex-shrink: 0;
+    margin-left: 10px;
+    margin-top: 20px;
+}
+#olympic p{
+    margin-left: 25px;
+}
+#contact h2 {
+    font-size: 24px;
+    color: #333;
+    margin-bottom: 20px;
+}
+
+/* Style the contact form container */
+.contact-form {
+    background-color: #f5f5f5;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
+}
+
+.contact-form input[type="text"],
+.contact-form input[type="email"],
+.contact-form textarea {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+}
+.contact-form input[type="submit"] {
+    background-color: #333;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+}
+.contact-form input[type="submit"]:hover {
+    background-color: #555;
+}
+.contact-info {
+    margin-top: 20px;
+    font-size: 16px;
+    color: #666;
+}
+.contact-info a {
+    text-decoration: none;
+    color: #333;
+}
+.contact-info a:hover {
+    text-decoration: underline;
+}
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+th, td {
+    padding: 10px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+}
+
+th {
+    background-color: #f2f2f2;
+}
+
+tr:nth-child(even) {
+    background-color: #f2f2f2;
+}
+
+tr:hover {
+    background-color: #ddd;
+}
+.photos img{
+    margin-left: 100px;
+}
